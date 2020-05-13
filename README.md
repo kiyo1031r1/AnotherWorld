@@ -1,15 +1,25 @@
 # AnotherWorld
 Unityバージョン：2019.3.5f1
 動作確認：Windows10 home 64bit
-         MacOS Catarina 10.15.4
+MacOS Catarina 10.15.4
 
 ---
+***
 当ゲームはPS4のコントローラーを使用します。
 PS4のコントローラー以外については動作未確認の為
 正常に操作できない可能性があります。
----
+
 
 ### 【操作方法】
+| Left align | Right align | Center align |
+|:-----------|------------:|:------------:|
+| This       |        This |     This     |
+| column     |      column |    column    |
+| will       |        will |     will     |
+| be         |          be |      be      |
+| left       |       right |    center    |
+| aligned    |     aligned |   aligned    |
+
 | 十字キ- | メニュー画面の上下左右操作 |
 |ジョイスティック|キャラクター移動|
 |〇ボタン|メニュー画面の決定操作|
