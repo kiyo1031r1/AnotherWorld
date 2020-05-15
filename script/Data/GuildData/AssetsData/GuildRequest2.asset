@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 625f109cb19d49844acc4ad7cc9da8c3, type: 3}
+  m_Name: GuildRequest2
+  m_EditorClassIdentifier: 
+  requestID: 2
+  requestName: "\u30B0\u30EA\u30FC\u30F3\u30B9\u30E9\u30A4\u30E0\u306E\u6838\u306E\u63A1\u53D6"
+  requestType: 1
+  reward: 300
+  rank: 0
+  information: "\u30B0\u30EA\u30FC\u30F3\u30B9\u30E9\u30A4\u30E0\u306E\u6838\u30923\u3064\u63A1\u53D6"
+  location: Plain
+  firstTargetEvent: {fileID: 11400000, guid: b986fc2d7753dc246b9c0836c256488e, type: 2}
+  firstEventClearNumber: 3
+  secondTargetEvent: {fileID: 0}
+  secondEventClearNumber: 0
+  enemySpawnData: {fileID: 11400000, guid: 7f8638253fb5df445861946c96c8d59b, type: 2}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee25fdba195f5cf49b724b87ae9e4ee9, type: 3}
+  m_Name: GREvent_Data
+  m_EditorClassIdentifier: 
+  guildRequestEventList:
+  - {fileID: 11400000, guid: 8a2ce97e5b371c14f86962d0df4ab96c, type: 2}
+  - {fileID: 11400000, guid: 4f25b5b81297ca44eb082c9e7e50d4ce, type: 2}
+  - {fileID: 11400000, guid: b986fc2d7753dc246b9c0836c256488e, type: 2}
+  - {fileID: 11400000, guid: c3d5c3299ae9eff44ac24dea2ab720a5, type: 2}

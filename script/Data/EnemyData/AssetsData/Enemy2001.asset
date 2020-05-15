@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bfaf1ecb3617a54fbacb13fbde75703, type: 3}
+  m_Name: Enemy2001
+  m_EditorClassIdentifier: 
+  enemyID: 2001
+  enemyPrefab: {fileID: 2283981210617793951, guid: 63a51df4cb212f04db22faaffeb1441f,
+    type: 3}
+  enemyName: "\u30B0\u30EA\u30FC\u30F3\u30B9\u30E9\u30A4\u30E0(\u7D0D\u54C1\u4F9D\u983C\u7528)"
+  maxHP: 5
+  attack: 1
+  defence: 0
+  speed: 2
+  viewEuler: 110
+  exp: 2
+  guildRequestEvent: {fileID: 0}
+  dropItem1: {fileID: 11400000, guid: f47ce6d4be44c674781eb1a5f413f17c, type: 2}
+  dropItem1_Number: 1
+  dropItem1_Probability: 0.7
+  dropItem2: {fileID: 11400000, guid: 3437ca3e5faf8684baab8cb717d8b18c, type: 2}
+  dropItem2_Number: 1
+  dropItem2_Probability: 0.1
+  attackSE: {fileID: 8300000, guid: 899d5eadfd4155f498f4293cb0515acf, type: 3}
+  dieSE: {fileID: 8300000, guid: f12091c63519734459d82372c7ace723, type: 3}

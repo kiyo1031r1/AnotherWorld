@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f64464774b808a9458662feff91eae3c, type: 3}
+  m_Name: Item2001
+  m_EditorClassIdentifier: 
+  Category: 1
+  itemID: 2001
+  itemName: "\u30B0\u30EA\u30FC\u30F3\u30B9\u30E9\u30A4\u30E0\u306E\u6838"
+  information: "\u30B0\u30EA\u30FC\u30F3\u30B9\u30E9\u30A4\u30E0\u306E\u672C\u4F53\u3068\u3082\u8A00\u3048\u308B\u90E8\u4F4D\u3002\n\u518D\u751F\u80FD\u529B\u3092\u751F\u304B\u3057HP\u3092\u56DE\u5FA9\u3059\u308B\u85AC\u306E\u539F\u6599\u306B\u306A\u308B\u3002"
+  buyPrice: 0
+  sellPrice: 0
+  guildRequestEvent: {fileID: 11400000, guid: b986fc2d7753dc246b9c0836c256488e, type: 2}
